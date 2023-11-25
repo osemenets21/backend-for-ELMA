@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "id": "8140bc4f-e143-4767-9b68-d2477ccb3be8",
+        "username": "radek_1572",
+        "email": "radek.21212@wp.pl",
+        "password": "$2b$10$pJfxSKASWBSloRQPHQcXdez64WVdg9z.pqcWn6ZctZqV4IkycMk66"
+      },
+      {
+        "id": "c8861e3d-25bb-4951-a800-bde7a19c7391",
+        "username": "radek_15722",
+        "email": "radekssds.lach1@wp.pl",
+        "password": "$2b$10$e7SP/us56r8/lRva0yBXTuOVa2pRxAHRjzut4e2ju2RmM77JqfLei"
+      },
+      {
+        "id": "13163326-8272-4e0b-88fd-16fe9c0b2eda",
+        "username": "radziuu22",
+        "email": "radek32131@gmail.com.pl",
+        "password": "$2b$10$XOa.i0iPNNX7q0BLBCOxhu7GY4GsocnGzagG/ZI12bZAK7YLuqCtq"
+      },
+      {
+        "id": "80366448-ef8b-4807-84dc-78c87aff0be0",
+        "username": "Oleh",
+        "email": "oleh@gmail.com",
+        "password": "$2b$10$7zedhxbZ9VfNpW5xE9qtf.7n4X6.lrAligmHWavOmGHTKhUWq4zpi"
+      }
+    ]
+  }
